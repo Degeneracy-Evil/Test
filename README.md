@@ -1,7 +1,6 @@
-# Test
 This is a test master.
 
-I am a student from China and I want to study computer.
+I am a student from China and I want to study computers.
 
 - I will use this repository for some experiments.
 
