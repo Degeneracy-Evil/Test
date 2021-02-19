@@ -16,10 +16,7 @@ int main(void)
 
 int f(int a)
 {
-    if (a != 0)
-    {
+    if (a)
         a = f(a - 1) + 2;
-    }
-
     return a;
 }
